@@ -1,1 +1,1 @@
-# ArchLinux logout
+# ArchLinux logout for NixOS
